@@ -1,6 +1,6 @@
 fancystring = "I want to party till I drop!"
 print(fancystring[2:8]) # from index 2 to index 7
-print(fancystring[:6]) #from beginning to index 6
+print(fancystring[:6]) #from beginning to index 5
 print(fancystring[4:]) #from index 4 to the end 
 print(fancystring[-4]) #4th character from the end 
 print(fancystring[3:7:2]) #takes from index 3 to index 6 and does an increment step of 2.The general form is [start:stop:step].
